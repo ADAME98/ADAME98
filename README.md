@@ -2,9 +2,9 @@
 ### At the moment I am Studying: Web Application Development
 
 <hr>
-
-![https://github.com/ADAME98](https://github.com/ADAME98/ADAME98/blob/main/programacion1.png)
-
+<p  style="width:200px ; height: 200px;" >
+<img src="https://github.com/ADAME98/ADAME98/blob/main/programacion1.jpg" />
+</p>
 <hr>
 
 ### If you want to know more about me:
