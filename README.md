@@ -25,7 +25,7 @@
   
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shylex96&layout=compact&theme=dark" alt="Sublime's custom image"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAME98&layout=compact&theme=dark" alt="Sublime's custom image"/>
 </td>
 </tr>
 </table>
@@ -135,4 +135,4 @@
 
 ## Estadisticas:
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=Shylex96&show_icons=true&theme=dark)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark)
