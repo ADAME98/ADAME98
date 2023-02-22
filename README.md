@@ -1,6 +1,6 @@
 
 <hr>
-<img src="https://github.com/ADAME98/ADAME98/blob/main/programacion2.png" />
+<img src="https://github.com/ADAME98/ADAME98/blob/main/perfil.png" />
 <hr>
 
 # Hi , my name is Javier Adame 👋  
