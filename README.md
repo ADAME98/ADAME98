@@ -81,6 +81,10 @@
 <img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white">
 </p>
 
+<hr>
+
 ## Estadisticas:
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark" alt="Sublime's custom image"/>
+</p>
