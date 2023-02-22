@@ -1,10 +1,12 @@
+
+<hr>
+<img src="https://github.com/ADAME98/ADAME98/blob/main/programacion2.png" />
+<hr>
+
 # Hi , my name is Javier Adame 👋  
 
 ### At the moment I am Studying: Web Application Development
 
-<hr>
-<img src="https://github.com/ADAME98/ADAME98/blob/main/programacion2.jpg" />
-<hr>
 
 ### If you want to know more about me:
 
