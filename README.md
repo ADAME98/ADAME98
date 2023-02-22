@@ -1,4 +1,5 @@
-# Hi , my name is Javier Adame 👋   ![https://github.com/ADAME98](https://github.com/ADAME98/ADAME98/blob/main/programacion1.png)
+<img style="width: 100px;  height: 100px;" class="pequeña" src="https://github.com/ADAME98/ADAME98/blob/main/fotoperfil.png" /> 
+# Hi , my name is Javier Adame 👋  
 ### At the moment I am Studying: Web Application Development
 
 ![https://github.com/ADAME98](https://github.com/ADAME98/ADAME98/blob/main/programacion1.png)
