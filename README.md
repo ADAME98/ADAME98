@@ -1,6 +1,8 @@
 # Hi , my name is Javier Adame 👋  
 ### At the moment I am Studying: Web Application Development
 
+<hr>
+
 ![https://github.com/ADAME98](https://github.com/ADAME98/ADAME98/blob/main/programacion1.png)
 
 <hr>
