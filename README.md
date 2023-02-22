@@ -1,11 +1,12 @@
-
-<hr>
 <img src="https://github.com/ADAME98/ADAME98/blob/main/perfil.png" />
+
+
+
+<h2 align="center"; ><b> Hi , my name is Javier Adame 👨🏽‍💻</b></h2>
+  
 <hr>
 
-# Hi , my name is Javier Adame 👋  
-
-### At the moment I am Studying: Web Application Development
+<h4 align="center"; ><b>At the moment I am Studying: Web Application Development</b></h4>
 <hr>
 
 ### If you want to know more about me:
