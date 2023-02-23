@@ -85,7 +85,7 @@
 
 <hr>
 
-## Estadisticas:
+## Summary:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark" alt="Sublime's custom image"/>
