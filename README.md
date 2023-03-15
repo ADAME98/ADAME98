@@ -29,7 +29,7 @@
   
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAME98&layout=compact&theme=dark" alt="Sublime's custom image"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAME98&layout=compact&theme=one_dark_pro" alt="Sublime's custom image"/>
 </td>
 </tr>
 </table>
@@ -88,6 +88,8 @@
 ## Summary:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark" alt="Sublime's custom image"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAME98&theme=dark" alt="ADAME98">
+<img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=one_dark_pro" alt="Sublime's custom image"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAME98&theme=one_dark_pro" alt="ADAME98">
+ <br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ADAME98&theme=one_dark_pro)](https://github.com/ADAME98/github-profile-trophy)
 </p>
