@@ -90,6 +90,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=one_dark_pro" alt="Sublime's custom image"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAME98&theme=one_dark_pro" alt="ADAME98">
+  </p>
+ <hr>
  <br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ADAME98&theme=one_dark_pro)](https://github.com/ADAME98/github-profile-trophy)
+ <p align="center">
+<img src=https://github-profile-trophy.vercel.app/?username=ADAME98&theme=one_dark_pro>
+  </p>
+  <hr>
+  <br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ADAME98&label=Profile%20views&color=0e75b6&style=one_dark_pro" alt="ADAME98">
 </p>
