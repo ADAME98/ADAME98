@@ -89,4 +89,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADAME98&show_icons=true&theme=dark" alt="Sublime's custom image"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAME98&theme=dark" alt="ADAME98">
 </p>
